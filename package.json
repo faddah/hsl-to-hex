@@ -23,6 +23,15 @@
     "hsl",
     "hex",
     "converter",
-    "tool"
-  ]
+    "tool",
+    "Dave Mark Clements",
+    "davidmarkclements",
+    "Node Cookbook"
+  ],
+  "dependencies": {
+    "hsl-to-rgb-for-reals": "^1.1.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
 }
