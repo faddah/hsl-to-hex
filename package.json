@@ -1,0 +1,28 @@
+{
+  "name": "hsl-to-hex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "faddah wolf",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/davidmarkclements/hsl-to-hex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidmarkclements/hsl-to-hex/issues"
+  },
+  "homepage": "https://github.com/davidmarkclements/hsl-to-hex#readme",
+  "description": "Converter tool in Node.JS for taking hsl code and making it into hex, from Dave Mark Clements 'Node Cookbook'",
+  "keywords": [
+    "Node.JS",
+    "JavaScript",
+    "Node",
+    "hsl",
+    "hex",
+    "converter",
+    "tool"
+  ]
+}
