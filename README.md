@@ -7,7 +7,7 @@
 ## Install
 
 ```sh
-npm install --save @davidmarkclements/hsl-to-hex
+npm install --save @faddah/hsl-to-hex
 ```
 
 ## API
