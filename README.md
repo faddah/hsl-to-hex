@@ -2,7 +2,7 @@
 
 ## Coding Exercise from Dave Mark Clements book, ["Node Cookbook"](https://subscription.packtpub.com/book/web-development/9781785880087)
 
-Convert HSL colors to RGB colors in hex format.
+[Convert HSL colors to RGB colors in hex format](https://github.com/davidmarkclements/hsl-to-hex#readme).
 
 ## Install
 
