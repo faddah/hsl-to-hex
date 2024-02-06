@@ -3,7 +3,9 @@
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+		"test": "npm run lint && tap test -- --cov",
+    "lint": "standard",
+		"lint-fix": "standard --fix"
   },
   "author": "faddah wolf",
   "license": "MIT",
@@ -29,9 +31,11 @@
     "Node Cookbook"
   ],
   "dependencies": {
+    "cute-stack": "^1.4.3",
     "hsl-to-rgb-for-reals": "^1.1.1"
   },
   "devDependencies": {
-    "standard": "^17.1.0"
+    "standard": "^17.1.0",
+    "tap": "^18.7.0"
   }
 }
